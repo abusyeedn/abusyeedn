@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Ed-Tech**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **UX Principles**
 
-- 👯 I’m looking to collaborate on **IAID App in Figma**
+- 👯 I’m looking to collaborate on **Freelance Projects**
 
-- 🤝 I’m looking for help with **Dart Programming**
+- 🤝 I’m looking for help with **Better Design**
 
 - 💬 Ask me about **Design**
 
