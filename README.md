@@ -1,7 +1,7 @@
 ### **<div align="center">I'm Abu Syeed , Passionate Designer 👨‍💻 working remotely since 2018 🚀</div>**  
   
 
-- 🔭 I’m currently working on [Devzone](https://github.com/DevzoneCommunity)  
+- 🔭 I’m currently working at Spaarks
   
 
 - 🌱 I’m currently learning UX Principles  
